@@ -1,0 +1,18 @@
+Vector -> physics, mathematician, computer science perspectives.
+Vector --> list of numbers (computer science)
+Vector --> Vectors which could be added (mathematician)
+arrow -> in x-y plane --> in linear algebra its rooted in origin.
+Vector--?
+[x
+y]
+
+* every 1 vector is given out of a pair of a number.
+every triplet in space gives only 1 vector.
+
+* sum of 2 vectors--> move 1 vector to the tip of the 2nd vector and you get the new vector which  is the sum of 2 vectors.
+
+* Vector sum=
+[x1  + [x2   = [x1+x2
+y1]     y2].    y1+y2]
+
+* Multiplication of a vector-->Stretching out that vector -->Scaling
