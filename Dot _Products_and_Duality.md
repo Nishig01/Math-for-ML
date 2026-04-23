@@ -1,0 +1,5 @@
+![dot-product](https://github.com/user-attachments/assets/bad5e630-7e5f-4cdc-be78-a80b4a089948)
+![GeometricInterpretationSetup](https://github.com/user-attachments/assets/a5580b80-6644-4557-9e1f-277043383f79)
+![GeometricInterpretation](https://github.com/user-attachments/assets/2f69477d-6e29-4d5d-a372-49acc26c9f27)
+![GeometricInterpretationNegative](https://github.com/user-attachments/assets/6fb4702e-c163-46b8-9370-b57d7aeaea6f)
+![PositiveAndNegativeOutput](https://github.com/user-attachments/assets/3f75adf7-0389-4963-8e9c-45231fc0108a)
